@@ -6,3 +6,7 @@
 Main函数调用这个函数，传入日期（从终端输入）
 
 4.从1～1000，1*2*3*4*～～～～*999*1000计算结果
+
+
+https://www.runoob.com/python3/python3-examples.html
+运行里面的例子
